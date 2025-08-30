@@ -1,2 +1,4 @@
 # airsim-python-scripts-egoplanner-EXsimple-reproduction
-rt
+python version = 3.7.12
+
+requirements: numpy airsim scipy (newest version)
